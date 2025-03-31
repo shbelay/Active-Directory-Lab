@@ -1,7 +1,7 @@
 # Table of Contents
 
-- [1. Configuring Windows Server 2025 as a Domain Controller](https://github.com/shbelay/Active-Directory-Lab/edit/main/README.md#configuring-windows-server-2025-as-a-domain-controller)
-- [2. Creating Domain Users](https://github.com/shbelay/Active-Directory-Lab/edit/main/README.md#creating-domain-users)
+- [1. Configuring Windows Server 2025 as a Domain Controller](#configuring-windows-server-2025-as-a-domain-controller)
+- [2. Creating Domain Users](#creating-domain-users)
 
 
 # Configuring Windows Server 2025 as a Domain Controller
@@ -83,7 +83,7 @@
    - **Confirmation**: Click **Configure**.
 7. Close the wizard upon completion.
 
-- [Back to the Top (Table of Contents)](https://github.com/shbelay/Active-Directory-Lab/edit/main/README.md#table-of-contents)
+- [Back to the Top (Table of Contents)](#table-of-contents)
 ---
 
 # Creating Domain Users
@@ -120,7 +120,7 @@
 
 3. Enter the password information and follow the prompts to finish creating the user.
 
-- [Back to the Top (Table of Contents)](https://github.com/shbelay/Active-Directory-Lab/edit/main/README.md#table-of-contents)
+- [Back to the Top (Table of Contents)](#table-of-contents)
 ---
 
 
