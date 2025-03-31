@@ -1,3 +1,7 @@
+# Table of Contents
+
+- [1. Configuring Windows Server 2025 as a Domain Controller](https://github.com/shbelay/Active-Directory-Lab/edit/main/README.md#configuring-windows-server-2025-as-a-domain-controller)
+
 # Configuring Windows Server 2025 as a Domain Controller
 
 ## Change the Name of the Computer
